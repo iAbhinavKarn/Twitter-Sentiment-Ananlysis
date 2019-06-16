@@ -21,7 +21,7 @@ Here are the WordCloud and Graphs.
                                         WordCloud of all the Neagative Words
 
 ![](Images/4.png)
-                                        Graph of to 10 positive hashtags with most tweets
+                                        Graph of top 10 positive hashtags with most tweets
                     
 ![](Images/5.png)
-                                        Graph of to 10 negative hashtags with most tweets
+                                        Graph of top 10 negative hashtags with most tweets
